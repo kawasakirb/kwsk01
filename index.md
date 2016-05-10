@@ -53,9 +53,11 @@ title: トップページ
 
 ## 基調講演
 
-mameさん
+講演者: 遠藤侑介
+<a href="https://github.com/mame"><span class="icon icon--github">{% include icon-github.svg %}</span></a>
+<a href="https://twitter.com/mametter"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
 
-<!-- mameさんは、何と表記するのが適切でしょうか / ご本名で良い? -->
+`'Ruby コミッタ。かつてはテスト、コードカバレッジ、リリースマネジメントなどを担当していた。高速化にはあまり興味がない。また、この説明文のように役に立たないプログラムを書く「超絶技巧プログラミング」を提唱・実践している。'{% raw %}.tap{|s|printf(t=%{'%s'.tap{|s|printf(t=%%{%s},s,t)}},s,t)}{% endraw %}`
 
 ## 発表
 
