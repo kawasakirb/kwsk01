@@ -73,14 +73,10 @@ kawasaki.rbの参加者が発表します。LTもあります。
 ## 協賛
 
 <!--
-以下と思っていますが、あっているか確認させて下さい。
-あと、今年もネットワークは提供いただけるのでしょうか。
-
 * [一般社団法人 日本Rubyの会](http://ruby-no-kai.org/)
-* [NTTアドバンステクノロジ株式会社](http://www.ntt-at.co.jp/) (会場・ネットワーク)
-* [Doorkeeper株式会社](http://www.doorkeeper.jp/)
-
 -->
+
+* [NTTアドバンステクノロジ株式会社](http://www.ntt-at.co.jp/) (会場)
 
 ## 注意事項
 
