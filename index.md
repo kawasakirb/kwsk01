@@ -27,7 +27,7 @@ title: トップページ
 * 住所: 神奈川県川崎市幸区大宮町1310
 
 <div class="ggmap">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3246.9198213226173!2d139.69482635!3d35.530979!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018609f1fb21e4f%3A0x71354a4d3e55903e!2z44CSMjEyLTAwMTQg56We5aWI5bed55yM5bed5bSO5biC5bm45Yy65aSn5a6u55S677yR77yT77yR77yQIOODn-ODpeODvOOCtuW3neW0juOCu-ODs-ODiOODqeODq-OCv-ODr-ODvA!5e0!3m2!1sja!2sjp!4v1411054749334" width="600" height="450" frameborder="0" style="border:0"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6493.819246626101!2d139.694597!3d35.531231!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018609ee3e8a757%3A0x65d24d64a47be98!2z5pel5pysLCDjgJIyMTItMDAxNCDnpZ7lpYjlt53nnIzlt53ltI7luILlubjljLrlpKflrq7nlLrvvJHvvJPvvJHvvJA!5e0!3m2!1sja!2sus!4v1462849220271" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 ## 参加方法
