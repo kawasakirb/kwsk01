@@ -5,7 +5,7 @@ title: トップページ
 
 # 川崎Ruby会議01
 
-川崎Ruby会議は、川崎のRubyコミュニティkawasaki.rbが主催する、地域Ruby会議です。
+川崎Ruby会議は、川崎のRubyコミュニティ[kawasaki.rb](http://kawasakirb.github.io/)が主催する、地域Ruby会議です。
 
 川崎Ruby会議01([#kwsk01](https://twitter.com/search?f=realtime&q=%23kwsk01))を8月20日に開催します。
 
