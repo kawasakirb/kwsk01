@@ -5,9 +5,14 @@ title: トップページ
 
 # 川崎Ruby会議01
 
-川崎Ruby会議は、川崎のRubyコミュニティkawasaki.rbが主催する、地域Ruby会議です。
+川崎Ruby会議は、川崎のRubyコミュニティ[kawasaki.rb](http://kawasakirb.github.io/)が主催する、地域Ruby会議です。
 
 川崎Ruby会議01([#kwsk01](https://twitter.com/search?f=realtime&q=%23kwsk01))を8月20日に開催します。
+
+## 開催趣旨
+
+コンセプトは「kwskバザー」。
+幼稚園や保育園のバザーのように、いつもの多様なkawasaki.rbの活動を、参加者のみなさまにご覧いただける場にしたいと思っています。
 
 ## 開催日時
 
@@ -45,6 +50,9 @@ kawasaki.rbの参加者が発表します。LTもあります。
 * [NTTアドバンステクノロジ株式会社](http://www.ntt-at.co.jp/) (会場)
 
 ## 注意事項
+
+みなさまに素敵な時間を過ごしていただけるよう、他の参加者が嫌がることはしない、という常識にもとづく行動をお願いいたします。
+[Ruby Kaigi 2016のアンチハラスメントポリシー](http://rubykaigi.org/2016/code-of-conduct/)もご覧ください。
 
 ## 運営チーム
 
