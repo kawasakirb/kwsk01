@@ -3,6 +3,8 @@ layout: default
 title: トップページ
 ---
 
+![Kawasaki Ruby Kaigi 01](images/kawasaki_ruby_kaigi_02.jpg)
+
 # 川崎Ruby会議01
 
 川崎Ruby会議は、川崎のRubyコミュニティ[kawasaki.rb](http://kawasakirb.github.io/)が主催する、地域Ruby会議です。
