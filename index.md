@@ -81,6 +81,8 @@ LTはkwsk01の参加募集と同時にDoorkeeperで発表者を公募する予�
 * [NTTアドバンステクノロジ株式会社](http://www.ntt-at.co.jp/) (会場)
 * [tmix.jp](https://tmix.jp/) powerd by [株式会社 spice life](http://spicelife.jp/) (Tシャツ)
 
+[![株式会社 spice life](images/sponsor_spice_life.png)](http://spicelife.jp/)
+
 ## 注意事項
 
 みなさまに素敵な時間を過ごしていただけるよう、他の参加者が嫌がることはしない、という常識にもとづく行動をお願いいたします。
