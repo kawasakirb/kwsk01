@@ -22,11 +22,13 @@ title: トップページ
 
 ## 会場
 
-* ミューザ川崎 セントラルタワー7F NTT-ATプレゼンルーム
-* 住所: 神奈川県川崎市幸区大宮町1310
+* 川崎市教育文化会館
+  * 住所: 神奈川県川崎市川崎区富士見２丁目１−３
+* 設備
+  * 会場にWi-Fiはありません。ご自身でテザリング等をご利用下さい。
 
 <div class="ggmap">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6493.819246626101!2d139.694597!3d35.531231!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018609ee3e8a757%3A0x65d24d64a47be98!2z5pel5pysLCDjgJIyMTItMDAxNCDnpZ7lpYjlt53nnIzlt53ltI7luILlubjljLrlpKflrq7nlLrvvJHvvJPvvJHvvJA!5e0!3m2!1sja!2sus!4v1462849220271" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12987.907302059748!2d139.69473690466316!3d35.52957035766773!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x14537f5563649465!2z5bed5bSO5biC5pWZ6IKy5paH5YyW5Lya6aSo!5e0!3m2!1sja!2sjp!4v1467905316788" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 ## 参加方法
@@ -65,7 +67,6 @@ title: トップページ
 
 ## 協賛
 
-* [NTTアドバンステクノロジ株式会社](http://www.ntt-at.co.jp/) (会場)
 * [tmix.jp](https://tmix.jp/) powerd by [株式会社 spice life](http://spicelife.jp/) (Tシャツ)
 
 [![株式会社 spice life](images/sponsor_spice_life.png)](http://spicelife.jp/)
