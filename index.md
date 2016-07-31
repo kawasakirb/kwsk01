@@ -37,7 +37,7 @@ title: トップページ
 参加費は無料です。
 
 Doorkeeperのイベントページから申し込みいただけます。
-LTをご希望の方も、こちらのページからお申し込み下さい。
+LTの募集は終了しました。
 
 * [https://kawasakirb.doorkeeper.jp/events/49734](https://kawasakirb.doorkeeper.jp/events/49734)
 
@@ -58,7 +58,11 @@ LTをご希望の方も、こちらのページからお申し込み下さい。
 |     |「Fatsettings.ymlと向き合う」 from 1syo                                     |
 |     |「この1年くらいのRuby力の伸長状況」 from 蓑島 慎一                          |
 |     |「Railsエンジニアがサーバーレスアーキテクチャに手を出したよ」 from 清水 雄太|
-|16:40|LT(一般公募 4名、Doorkeeprで発表者を募集)                                   |
+|16:40|LT                                                                          |
+|     |「Big Data Baseball with Python」 from shinyorke(シンヨーク)                |
+|     |「並行プログラミングと魔法の薬」 from 笹田耕一                              |
+|     |「７カ国をさすらうグローバルなお仕事顛末記(仮題)」 from kishima             |
+|     |「浮動小数点数での分散の求め方」 from 村田賢太                              |
 |17:00|閉会の挨拶                                                                  |
 
 ## 基調講演
