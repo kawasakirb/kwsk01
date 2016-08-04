@@ -55,7 +55,7 @@ LTの募集は終了しました。
 |     |「RubyでRoombaをハックする」 from kon_yu                                    |
 |15:25|休憩                                                                        |
 |15:40|発表後半                                                                    |
-|     |「Fatsettings.ymlと向き合う」 from 1syo                                     |
+|     |「Fat settings.ymlと向き合う」 from 1syo                                    |
 |     |「この1年くらいのRuby力の伸長状況」 from 蓑島 慎一                          |
 |     |「Railsエンジニアがサーバーレスアーキテクチャに手を出したよ」 from 清水 雄太|
 |16:40|LT                                                                          |
