@@ -43,27 +43,87 @@ LTの募集は終了しました。
 
 ## タイムテーブル
 
-|時間 |内容                                                                        |
-|:----|:---------------------------------------------------------------------------|
-|12:00|受付開始                                                                    |
-|13:00|開会の挨拶, スポンサー挨拶                                                  |
-|13:10|基調講演 from 遠藤侑介                                                      |
-|14:10|休憩                                                                        |
-|14:25|発表前半                                                                    |
-|     |「mruby を C# に組み込んでみる」 from 秋山 亮介                             |
-|     |「Rubyistを誘うScalaの世界 ver 2.0」 from ぺら                              |
-|     |「RubyでRoombaをハックする」 from kon_yu                                    |
-|15:25|休憩                                                                        |
-|15:40|発表後半                                                                    |
-|     |「Fat settings.ymlと向き合う」 from 1syo                                    |
-|     |「この1年くらいのRuby力の伸長状況」 from 蓑島 慎一                          |
-|     |「Railsエンジニアがサーバーレスアーキテクチャに手を出したよ」 from 清水 雄太|
-|16:40|LT                                                                          |
-|     |「Big Data Baseball with Python」 from shinyorke(シンヨーク)                |
-|     |「並行プログラミングと魔法の薬」 from 笹田耕一                              |
-|     |「７カ国をさすらうグローバルなお仕事顛末記(仮題)」 from kishima             |
-|     |「浮動小数点数での分散の求め方」 from 村田賢太                              |
-|17:00|閉会の挨拶                                                                  |
+<table>
+  <tr>
+    <th>時間</th>
+    <th>内容</th>
+  </tr>
+  <tr>
+    <td>12:00</td>
+    <td>受付開始</td>
+  </tr>
+  <tr>
+    <td>13:00</td>
+    <td>開会の挨拶, スポンサー挨拶</td>
+  </tr>
+  <tr>
+    <td>13:10</td>
+    <td>基調講演 from 遠藤侑介</td>
+  </tr>
+  <tr>
+    <td>14:10</td>
+    <td>休憩</td>
+  </tr>
+  <tr>
+    <td>14:25</td>
+    <td>発表前半</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>「mruby を C# に組み込んでみる」 from 秋山 亮介 <a href="https://twitter.com/kechako"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>「Rubyistを誘うScalaの世界 ver 2.0」 from ぺら <a href="https://twitter.com/Peranikov"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>「RubyでRoombaをハックする」 from kon_yu <a href="https://twitter.com/kon_yu"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
+  </tr>
+  <tr>
+    <td>15:25</td>
+    <td>休憩</td>
+  </tr>
+  <tr>
+    <td>15:40</td>
+    <td>発表後半</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>「Fat settings.ymlと向き合う」 from 1syo <a href="https://github.com/1syo"><span class="icon icon--github">{% include icon-github.svg %}</span></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>「この1年くらいのRuby力の伸長状況」 from 蓑島 慎一 <a href="https://twitter.com/rojiuratech"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>「Railsエンジニアがサーバーレスアーキテクチャに手を出したよ」 from 清水 雄太 <a href="https://twitter.com/pachirel"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
+  </tr>
+  <tr>
+    <td>16:40</td>
+    <td>LT</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>「Big Data Baseball with Python」 from shinyorke(シンヨーク) <a href="https://twitter.com/shinyorke"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a><a href="https://github.com/Shinichi-Nakagawa"><span class="icon icon--github">{% include icon-github.svg %}</span></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>「並行プログラミングと魔法の薬」 from 笹田耕一</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>「７カ国をさすらうグローバルなお仕事顛末記(仮題)」 from kishima <a href="https://github.com/kishima"><span class="icon icon--github">{% include icon-github.svg %}</span></a><a href="https://twitter.com/kishima"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>「浮動小数点数での分散の求め方」 from 村田賢太 <a href="https://github.com/mrkn"><span class="icon icon--github">{% include icon-github.svg %}</span></a><a href="https://twitter.com/mrkn"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
+  </tr>
+    <tr><td>17:00</td>
+    <td>閉会の挨拶</td>
+  </tr>
+</table>
 
 ## 基調講演
 
