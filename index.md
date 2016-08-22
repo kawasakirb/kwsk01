@@ -58,12 +58,7 @@ LTの募集は終了しました。
   </tr>
   <tr>
     <td>13:10</td>
-    <td>基調講演「Ruby で高速なプログラムを書く」 from 遠藤侑介 
-      <a href="https://github.com/mame"><span class="icon icon--github">{% include icon-github.svg %}</span></a>
-      <a href="https://twitter.com/mametter"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
-      <span class="icon"><a href="https://www.youtube.com/watch?v=NHXaH3pkk-M">{% icon fa-youtube %}</a></span>
-      <span class="icon"><a href="http://www.slideshare.net/mametter/ruby-65182128">{% icon fa-slideshare %}</a></span>
-    </td>
+    <td>基調講演 from 遠藤侑介</td>
   </tr>
   <tr>
     <td>14:10</td>
@@ -75,29 +70,15 @@ LTの募集は終了しました。
   </tr>
   <tr>
     <td></td>
-    <td>「mruby を C# に組み込んでみる」 from 秋山 亮介 
-      <a href="https://twitter.com/kechako"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
-      <span class="icon"><a href="https://www.youtube.com/watch?v=GpEru8yI4cI">{% icon fa-youtube %}</a></span>
-      <span class="icon"><a href="http://www.slideshare.net/kechako/mruby-c">{% icon fa-slideshare %}</a></span>
-    </td>
+    <td>「mruby を C# に組み込んでみる」 from 秋山 亮介 <a href="https://twitter.com/kechako"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
   </tr>
   <tr>
     <td></td>
-    <td>「Rubyistを誘うScalaの世界 ver 2.0」 from ぺら 
-      <a href="https://twitter.com/Peranikov"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
-      <span class="icon"><a href="https://www.youtube.com/watch?v=GQCiJ-LF0p0">{% icon fa-youtube %}</a></span>
-      <span class="icon"><a href="http://www.slideshare.net/yutomatsukubo/rubyistscala-20-65178203">{% icon fa-slideshare %}</a></span>
-    </td>
+    <td>「Rubyistを誘うScalaの世界 ver 2.0」 from ぺら <a href="https://twitter.com/Peranikov"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
   </tr>
   <tr>
     <td></td>
-    <td>
-      「RubyでRoombaをハックする」 from kon_yu 
-      <a href="https://twitter.com/kon_yu"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
-      <span class="icon"><a href="https://www.youtube.com/watch?v=6-YBuQ8n1OE">{% icon fa-youtube %}</a></span>
-      <span class="icon"><a href="http://www.slideshare.net/kon_yu/rubyroomba">{% icon fa-slideshare %}</a></span>
-      <span><a href="https://www.youtube.com/watch?v=NQ9qcvOxfJk">デモ動画</a></span>
-    </td>
+    <td>「RubyでRoombaをハックする」 from kon_yu <a href="https://twitter.com/kon_yu"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
   </tr>
   <tr>
     <td>15:25</td>
@@ -109,27 +90,15 @@ LTの募集は終了しました。
   </tr>
   <tr>
     <td></td>
-    <td>
-      「Fat settings.ymlと向き合う」 from 1syo 
-      <a href="https://github.com/1syo"><span class="icon icon--github">{% include icon-github.svg %}</span></a>
-      <span class="icon"><a href="https://www.youtube.com/watch?v=FkEOuk0LJS4">{% icon fa-youtube %}</a></span>
-    </td>
+    <td>「Fat settings.ymlと向き合う」 from 1syo <a href="https://github.com/1syo"><span class="icon icon--github">{% include icon-github.svg %}</span></a></td>
   </tr>
   <tr>
     <td></td>
-    <td>
-      「この1年くらいのRuby力の伸長状況」 from 蓑島 慎一 
-      <a href="https://twitter.com/rojiuratech"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
-      <span class="icon"><a href="https://speakerdeck.com/rojiuratech/kawasaki-rubykaigi-slide">{% icon fa-slideshare %}</a></span>
-    </td>
+    <td>「この1年くらいのRuby力の伸長状況」 from 蓑島 慎一 <a href="https://twitter.com/rojiuratech"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
   </tr>
   <tr>
     <td></td>
-    <td>
-      「Railsエンジニアがサーバーレスアーキテクチャに手を出したよ」 from 清水 雄太 
-      <a href="https://twitter.com/pachirel"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
-      <span class="icon"><a href="http://www.slideshare.net/YutaShimizu1/rails-ruby01">{% icon fa-slideshare %}</a></span>
-    </td>
+    <td>「Railsエンジニアがサーバーレスアーキテクチャに手を出したよ」 from 清水 雄太 <a href="https://twitter.com/pachirel"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
   </tr>
   <tr>
     <td>16:40</td>
@@ -137,38 +106,19 @@ LTの募集は終了しました。
   </tr>
   <tr>
     <td></td>
-    <td>
-      「Big Data Baseball with Python」 from shinyorke(シンヨーク) 
-      <a href="https://twitter.com/shinyorke"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
-      <a href="https://github.com/Shinichi-Nakagawa"><span class="icon icon--github">{% include icon-github.svg %}</span></a>
-      <span class="icon"><a href="https://www.youtube.com/watch?v=NoH-_dIJo2E">{% icon fa-youtube %}</a></span>
-      <span class="icon"><a href="http://www.slideshare.net/shinyorke/big-data-baseball-with-python-ichiro-suzuki-hacks-kwsk01">{% icon fa-slideshare %}</a></span>
-    </td>
+    <td>「Big Data Baseball with Python」 from shinyorke(シンヨーク) <a href="https://twitter.com/shinyorke"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a><a href="https://github.com/Shinichi-Nakagawa"><span class="icon icon--github">{% include icon-github.svg %}</span></a></td>
   </tr>
   <tr>
     <td></td>
-    <td>
-      「並行プログラミングと魔法の薬」 from 笹田耕一
-      <span class="icon"><a href="https://www.youtube.com/watch?v=OcdxLTzOnA8">{% icon fa-youtube %}</a></span>
-    </td>
+    <td>「並行プログラミングと魔法の薬」 from 笹田耕一</td>
   </tr>
   <tr>
     <td></td>
-    <td>
-      「７カ国をさすらうグローバルなお仕事顛末記(仮題)」 from kishima 
-      <a href="https://github.com/kishima"><span class="icon icon--github">{% include icon-github.svg %}</span></a>
-      <a href="https://twitter.com/kishima"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
-    </td>
+    <td>「７カ国をさすらうグローバルなお仕事顛末記(仮題)」 from kishima <a href="https://github.com/kishima"><span class="icon icon--github">{% include icon-github.svg %}</span></a><a href="https://twitter.com/kishima"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
   </tr>
   <tr>
     <td></td>
-    <td>
-      「浮動小数点数での分散の求め方」 from 村田賢太 
-      <a href="https://github.com/mrkn"><span class="icon icon--github">{% include icon-github.svg %}</span></a>
-      <a href="https://twitter.com/mrkn"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
-      <span class="icon"><a href="https://www.youtube.com/watch?v=GX3iSiDuFss">{% icon fa-youtube %}</a></span>
-      <span class="icon"><a href="https://speakerdeck.com/mrkn/how-to-calculate-a-variance-of-floating-point-numbers">{% icon fa-slideshare %}</a></span>
-    </td>
+    <td>「浮動小数点数での分散の求め方」 from 村田賢太 <a href="https://github.com/mrkn"><span class="icon icon--github">{% include icon-github.svg %}</span></a><a href="https://twitter.com/mrkn"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a></td>
   </tr>
     <tr><td>17:00</td>
     <td>閉会の挨拶</td>
