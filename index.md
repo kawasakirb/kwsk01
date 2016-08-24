@@ -113,6 +113,7 @@ LTの募集は終了しました。
       「Fat settings.ymlと向き合う」 from 1syo 
       <a href="https://github.com/1syo"><span class="icon icon--github">{% include icon-github.svg %}</span></a>
       <span class="icon"><a href="https://www.youtube.com/watch?v=FkEOuk0LJS4"><i class='fa fa-youtube'></i></a></span>
+      <span class="icon"><a href="https://speakerdeck.com/1syo/fat-settings-yml"><i class='fa fa-slideshare'></i></a></span>
     </td>
   </tr>
   <tr>
